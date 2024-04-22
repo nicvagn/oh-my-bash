@@ -4,7 +4,6 @@
 !/custom/plugins/example/
 !/custom/themes/example/
 !/custom/example.sh
-/custom/
 
 # temp files directories
 /cache/
